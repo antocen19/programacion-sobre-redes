@@ -1,1 +1,5 @@
+Índice de la Materia
 
+15/03/26: Realicé en el programa Processing un código donde se genera una vista de una pantalla (800 x 600) y también generé un círculo dentro de la pantalla. También utilicé el WIGHT y el HEIGHT que sirve para darle el ancho y el largo al círculo.
+
+26/03/26: Hoy en la carpeta respondí unas preguntas sobre un código.
